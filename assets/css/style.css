@@ -667,4 +667,14 @@ html {
     .btn-class {
         width: 100%;
     }
+    
+    .contact-form .col {
+        margin: 4px 0;
+        
+    }
+
+    .mt-8 {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
 }
