@@ -71,6 +71,9 @@ form::after {
     cursor: pointer;
     background-color: black;
     color: white;
+    appearance: none;
+    -webkit-appearance: none;
+    
 }
 
 .btn-class:hover {
