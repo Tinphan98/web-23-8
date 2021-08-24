@@ -233,13 +233,13 @@ html {
     font-size: 24px;
     font-weight: 1000;
     margin: 10px 0;
-    text-shadow: 0 0 1px black;
+    
 }
 
 #slider .text-description {
     font-size: 15px;
     margin: 15px;
-    text-shadow: 0 0 1px black;
+    
     /* bottom: 50px; */
 }
 
