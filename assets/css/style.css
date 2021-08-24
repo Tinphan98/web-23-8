@@ -666,6 +666,8 @@ html {
     }
     .btn-class {
         width: 100%;
+        appearance: none;
+        -webkit-appearance: none;
     }
     
     .contact-form .col {
